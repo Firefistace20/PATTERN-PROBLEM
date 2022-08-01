@@ -22,7 +22,16 @@ main ()
 	}
       cout << "\n";
     }
-
+//OUTPUT WILL BE 
+	/*     
+	                *
+	              * *
+	            * * *
+		  * * * *
+		* * * * *
+		
+		
+        */
 
   return 0;
 }
